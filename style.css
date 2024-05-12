@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+}
+.container {
+    text-align: center;
+}
+.input {
+    margin: 10px;
+}
+#output {
+    margin-top: 20px;
+    font-weight: bold;
+}
